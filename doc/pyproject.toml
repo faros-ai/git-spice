@@ -12,5 +12,5 @@ dev-dependencies = [
     "mkdocs-llmstxt>=0.3.1",
     "properdocs",
     "cairosvg>=2.7.1",
-    "pillow>=10.4.0",
+    "pillow>=13.0.0",
 ]
