@@ -5,6 +5,7 @@ version = "0.1.0"
 requires-python = ">=3.12"
 
 [tool.uv]
+constraint-dependencies = ["pymdown-extensions>=11.0.2"]
 dev-dependencies = [
     "mkdocs-materialx",
     "markdown-exec[ansi]>=1.9.3",
